@@ -10,7 +10,7 @@ import com.amazonaws.services.dynamodbv2.model.ResourceNotFoundException;
 import java.util.Scanner;
 
 public class BankingInformationSystem {
-    private static final String TABLE_NAME = "BankAccounts";
+    private static final String TABLE_NAME = "BankAccounts"; 
 
     public static void main(String[] args) {
         
