@@ -7,7 +7,7 @@ import com.amazonaws.services.dynamodbv2.document.spec.GetItemSpec;
 import com.amazonaws.services.dynamodbv2.document.spec.PutItemSpec;
 import com.amazonaws.services.dynamodbv2.model.ResourceNotFoundException; 
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class BankingInformationSystem {
     private static final String TABLE_NAME = "BankAccounts"; 
